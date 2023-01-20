@@ -1,4 +1,3 @@
-
 public class Parent {
 	public void education() {
 		System.out.println("Study");
